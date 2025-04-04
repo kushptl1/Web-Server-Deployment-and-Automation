@@ -23,7 +23,6 @@ All resources are created using **Terraform modules** for better structure and r
 part2
 ├── main.tf   #DynamoDB Table Creation and Interaction using Python Boto3
 
-```bash
 part2_task2  #Web Server Deployment on EC2, Automating Deployment with Terraform 
 ├── main.tf                  # Top-level orchestrator
 ├── modules/
